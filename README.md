@@ -3,7 +3,6 @@
 # <p align="center"> Hi there 👋 I'm Mohammad Hossein 👨‍💻 </p>
  <p align="center"> React Js expert and FrontEnd Developer from Iran.</p>
 
-## Descripton Mini-Project
 - A beautiful 3D loader designed with HTML and CSS
 
 >### Languages
