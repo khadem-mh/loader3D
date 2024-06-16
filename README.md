@@ -1,8 +1,5 @@
+# <p align="center">Hi 👋 I'm an expert on React Js 👨‍💻 Next JS</p>
 
-
-# <p align="center"> Hi there 👋 I'm Mohammad Hossein 👨‍💻 </p>
- <p align="center"> React Js expert and FrontEnd Developer from Iran.</p>
-<br/><br/><br/>
 - A beautiful 3D loader designed with HTML and CSS
 
 >### Languages
